@@ -1,4 +1,4 @@
-#👀 Inspiration
+👀 #Inspiration
 SightScan was born out of the desire to empower individuals with visual impairments or reading difficulties to access essential information on food, medicine, and other labels. Recognizing the barriers faced by many in understanding critical details, our team embarked on a mission to create a solution that enhances accessibility and independence in daily life.
 
 #🤖 What it does
